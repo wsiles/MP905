@@ -1,29 +1,24 @@
-### MP905
-#### Actividad de Titulación I
-
-
-
 <body>
 
 <p style="padding-top:50px"></p>
-<p align=center style="font-size:65px;"><strong0>Max Planck<br>Teoria del Cuerpo Negro y<br>la Naturaleza Cuántica</strong0><p>
+<p align=center style="font-size:65px;">Revisión Sistemática de la Incorporación del Pensamiento Computacional en la Educación Secundaria en países de Iberoamérica<p>
 <p align=center style="font-size:45px;"><br></p>
 <table width=100%>
   <tr>
-    <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong1>Asignatura :</strong1></td>
-    <td width=77% style="vertical-align:top;padding-top:15px">MP903 - Didáctica de la Física Moderna</td>
+    <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Asignatura :</strong></td>
+    <td width=77% style="vertical-align:top;padding-top:15px">MP905 - Actividad de Titulación I</td>
   </tr>
   <tr>
-    <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong1>Profesor :</strong1></td>
-    <td width=77% style="vertical-align:top;padding-top:15px">Luis Viza García</td>
+    <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Tutora :</strong></td>
+    <td width=77% style="vertical-align:top;padding-top:15px">Nathaly Arias Bacarreza</td>
   </tr>
   <tr>
-    <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong1>Estudiante :</strong1></td>
+    <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Estudiante :</strong></td>
     <td width=77% style="vertical-align:top;padding-top:15px">Wilfredo Siles Chávez</td>
   </tr>
 </table>
 <p style="padding-top:20px"></p>
-<p align=center style="font-size:65px;"><strong0>Hipótesis Cuántica 1900</strong0></p>
+<p align=center style="font-size:65px;">Compendio</p>
 <blockquote>
 <ul>
 <li style="list-style-type:disc;padding-top:0px">Planck induce su resultado a <strong1>cumplir la Ley de Wien</strong1>, que indica: $\rho(\nu,T)=\nu^3 \hspace{10px} F(\dfrac{\nu}{T})$.</li>
