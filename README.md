@@ -3,9 +3,9 @@
 <p style="padding-top:50px"></p>
 <p align=center style="font-size:65px;">Revisión Sistemática de la Incorporación del Pensamiento Computacional en la Educación Secundaria en países de Iberoamérica<p>
 <p align=center style="font-size:45px;"><br></p>
-<table width=800px>
+<table width=100%>
   <tr>
-    <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Asignatura :</strong></td>
+    <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Materia :</strong></td>
     <td width=77% style="vertical-align:top;padding-top:15px">MP905 - Actividad de Titulación I</td>
   </tr>
   <tr>
