@@ -19,13 +19,9 @@
 </table>
 <p style="padding-top:20px"></p>
 <p align=center style="font-size:65px;">Compendio</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/2560px-Programming_code.jpg" width="250" height="200"/></a>
 <blockquote>
-<ul>
-<li style="list-style-type:disc;padding-top:0px">Planck induce su resultado a <strong1>cumplir la Ley de Wien</strong1>, que indica: $\rho(\nu,T)=\nu^3 \hspace{10px} F(\dfrac{\nu}{T})$.</li>
-<p>Entonces: $\hspace{170px}\varepsilon=h \hspace{10px} \nu$</p>
-<li style="list-style-type:disc;padding-top:30px">Finalmente, se obtiene la <strong1>Distribución de Planck</strong1>:</li>
 <p align=center>$\rho(\nu,T)=\dfrac{8\pi \hspace{10px}h \hspace{10px}\nu^3}{c^3} \hspace{10px} \dfrac{1}{e^{^{\tfrac{h \hspace{10px}\nu}{KT}}}-1}$</p>
-</ul>
 </blockquote>
 
 </body>
