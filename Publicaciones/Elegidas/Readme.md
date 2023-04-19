@@ -1,1 +1,0 @@
-Publicaciones seleccionadas para depuración
