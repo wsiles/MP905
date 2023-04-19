@@ -6,7 +6,7 @@
 <table width=100%>
   <tr>
     <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Materia :</strong></td>
-    <td width=77% style="vertical-align:top;padding-top:15px">MP905 - Actividad de Titulación I</td>
+    <td width=77% style="vertical-align:top;padding-top:15px">MP905 - Actividad Titulación I</td>
   </tr>
   <tr>
     <td width=30% style="text-align:right;vertical-align:top;padding-top:15px;padding-right:15px"><strong>Tutora :</strong></td>
