@@ -20,6 +20,6 @@
 <p style="padding-top:20px"></p>
 <p align=center style="font-size:65px;">Contenido</p>
 <p align=center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/2560px-Programming_code.jpg" width="512" height="384"/></a></p>
-<p align=center>$\rho(\nu,T)=\dfrac{8\pi \hspace{10px}h \hspace{10px}\nu^3}{c^3} \hspace{10px} \dfrac{1}{e^{^{\tfrac{h \hspace{10px}\nu}{KT}}}-1}$</p>
+<p align=center>$O(n \log (n)$</p>
 
 </body>
